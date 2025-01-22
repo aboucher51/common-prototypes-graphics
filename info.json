@@ -1,0 +1,11 @@
+{
+    "name": "common-prototypes-graphics",
+    "version": "0.0.1",
+    "title": "Common prototypes graphics",
+    "author": "5forSilver",
+    "description": "A library to synchronize common materials from various mods",
+    "factorio_version": "2.0",
+    "dependencies": [
+
+    ]
+}
